@@ -22,6 +22,6 @@ This doesn't mean you have to purchase any special equipment, but there is some 
 - Download [NodeJS](https://nodejs.org/en/download/),
 - Download [Node Package Manager (NPM)](https://docs.npmjs.com/getting-started/installing-node),
 - In the command line, type in `npm install -g http-server`; then,
-- Then type in `serve` in the command line (in the proper directory) and `localhost:3000` in the address bar
+- Then type in `serve` in the command line (in the proper directory) and `localhost:8080` in the address bar
 
 You don't have to reset either server when you've modified the files in the directory. Just refresh the browser!
