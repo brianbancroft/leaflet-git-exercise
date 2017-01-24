@@ -4,14 +4,28 @@
     {
       "type": "Feature",
       "properties": {
-        name: "#Maptime!,
-        description: "We are here!"
+        "name": "#Maptime!",
+        "description": "We are here!"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.38113451004028,
           43.657843882058906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toronto Reference Library",
+        "description": "Books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38666,
+          43.67188
         ]
       }
     }
