@@ -28,6 +28,20 @@
           43.67188
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "#Brian!",
+        "description": "I is here!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37710,
+          43.65356
+        ]
+      }
     }
   ]
 }
