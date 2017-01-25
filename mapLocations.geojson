@@ -28,6 +28,20 @@
           43.67188
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "I'm here!",
+        "description": "We are here!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38016,
+          43.65360
+        ]
+      }
     }
   ]
 }
