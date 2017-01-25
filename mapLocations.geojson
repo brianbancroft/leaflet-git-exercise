@@ -28,6 +28,20 @@
           43.67188
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Added Point",
+        "description": "Books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38766,
+          43.67288
+        ]
+      }
     }
   ]
 }
