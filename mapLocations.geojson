@@ -28,6 +28,21 @@
           43.67188
         ]
       }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "name": "Daniel Loughran",
+        "description": "Dundas West Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.45286,
+          43.65678
+        ]
+      }
     }
+    
   ]
 }
