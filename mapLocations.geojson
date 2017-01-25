@@ -27,6 +27,19 @@
           -79.38666,
           43.67188
         ]
+      },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name": "Peter",
+        "description": "I am here"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3855,
+          43.672
+        ]
       }
     }
   ]
