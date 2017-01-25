@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "name": "I'm here!",
-        "description": "We are here!"
+        "description": "We are here -- Maptime meetup!"
       },
       "geometry": {
         "type": "Point",
