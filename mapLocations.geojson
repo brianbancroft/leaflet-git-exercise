@@ -32,16 +32,17 @@
 	{
       "type": "Feature",
       "properties": {
-        "name": "#Kamal!",
-        "description": "We are here!"
+        "name": "RU -MSA Alumuni!",
+        "description": "MapTime!"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.12113451004028,
-          43.237843882058906
+          -79.38098,
+          43.65689
         ]
-      }
+		
+		}
     }
   ]
 }
