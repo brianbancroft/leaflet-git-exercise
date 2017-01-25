@@ -4,6 +4,20 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Department of Geography and Environmental Studies",
+        "description": "We are the best!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38092,
+          43.65913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "#Maptime!",
         "description": "We are here!"
       },
