@@ -28,6 +28,22 @@
           43.67188
         ]
       }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name": "#Maptime!",
+        "description": "We are here!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.12113451004028,
+          43.237843882058906
+        ]
+      }
     }
   ]
 }
+
+        
