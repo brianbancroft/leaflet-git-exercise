@@ -27,8 +27,9 @@
           -79.38666,
           43.67188
         ]
-      },
-	  {
+      }
+	},
+	{
       "type": "Feature",
       "properties": {
         "name": "Peter",
