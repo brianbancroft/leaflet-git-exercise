@@ -60,6 +60,20 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "#Meeee!",
+        "description": "Cheese!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3771,
+          43.672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Peter",
         "description": "I am here"
       },
