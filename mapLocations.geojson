@@ -1,89 +1,103 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Department of Geography and Environmental Studies",
-                "description": "We are the best!"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.38092,
-                    43.65913
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "#Maptime!",
-                "description": "We are here!"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.38113451004028,
-                    43.657843882058906
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Toronto Reference Library",
-                "description": "Books"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.38666,
-                    43.67188
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Peter",
-                "description": "I am here"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3855,
-                    43.672
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "RU -MSA Alumuni!",
-                "description": "MapTime!"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.38098,
-                    43.65689
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "#Brian!",
-                "description": "I is here!"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.3771,
-                    43.65356
-                ]
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daniel Loughran",
+        "description": "Dundas West Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.45286,
+          43.65678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Department of Geography and Environmental Studies",
+        "description": "We are the best!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38092,
+          43.65913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "#Maptime!",
+        "description": "We are here!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38113451004028,
+          43.657843882058906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toronto Reference Library",
+        "description": "Books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38666,
+          43.67188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peter",
+        "description": "I am here"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3855,
+          43.672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RU -MSA Alumuni!",
+        "description": "MapTime!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38098,
+          43.65689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "#Brian!",
+        "description": "I is here!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3771,
+          43.65356
+        ]
+      }
+    }
+  ]
 }
