@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "name": "#Maptime!",
-        "description": "We are here!"
+        "description": "You are located here!"
       },
       "geometry": {
         "type": "Point",
@@ -54,6 +54,20 @@
         "coordinates": [
           -79.38666,
           43.67188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "#Maptime!",
+        "description": "We are here!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.38113451004028,
+          54.657843882058906
         ]
       }
     },
