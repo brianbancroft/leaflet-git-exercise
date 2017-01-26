@@ -46,6 +46,20 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "RU -MSA Alumuni!",
+        "description": "MapTime!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38098,
+          43.65689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "#Brian!",
         "description": "I is here!"
       },
@@ -55,7 +69,9 @@
           -79.37710,
           43.65356
         ]
-      }
+      }    
     }
   ]
 }
+
+        
