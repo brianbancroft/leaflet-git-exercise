@@ -46,14 +46,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Toronto Reference Library",
-        "description": "Books"
+        "name": "A place",
+        "description": "A place"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38666,
-          43.67188
+          -79.3888907,
+          43.663368
         ]
       }
     },
