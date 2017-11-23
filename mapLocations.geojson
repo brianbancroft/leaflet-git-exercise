@@ -126,6 +126,20 @@
           43.65356
         ]
       }
-    }
+    },
+    {
+          "type": "Feature",
+          "properties": {
+            "name": "=)!",
+            "description": "=(!"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -79.3835259,
+              43.655361
+            ]
+          }
+        }
   ]
 }
