@@ -15,12 +15,25 @@
           43.657843882058906
         ]
       }
+      {
+      "type": "Feature",
+      "properties": {
+        "name": "BURGERS!!"
+        "description": "We are here"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3857443,
+          43.6720502
+        ]
+      }
     }, // <-- Notice the comma here! We need those between elements.
 
     {
       "type": "Feature",
       "properties": {
-        "name": "< ENTER NAME HERE >",
+        "name": "<Burgers>",
         "description": " < Place Description here > "
       },
       "geometry": {
