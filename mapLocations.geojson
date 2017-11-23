@@ -60,6 +60,20 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Super random",
+        "description": "This is a random location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.443222,
+          43.6856945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "#Maptime!",
         "description": "We are here!"
       },
